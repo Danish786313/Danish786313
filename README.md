@@ -173,21 +173,6 @@ Use this section to highlight public repositories, technical demos, or case stud
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username. -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
 ## Let's Build Something
 
 I'm interested in building reliable products, solving backend challenges, and collaborating with teams that care about code quality and real-world impact.
